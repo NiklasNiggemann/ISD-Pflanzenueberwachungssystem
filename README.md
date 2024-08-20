@@ -69,6 +69,11 @@ Es gibt zwei Funktionen, die die Sensorwerte auf dem LCD anzeigen:
 * displayMoisture(int value): Zeigt den Feuchtigkeitswert und eine Statusmeldung (“Trockene Erde”, “Feuchte Erde”, “Wasser”) an. 
 * displaySensorValue(int value, String label): Zeigt einen beliebigen Sensorwert mit einem entsprechenden Label an (z.B. “Wasser”, “Helligkeit”).
 
+## Konzeption 
+
+Das System eignet sich hervorragend für verschiedene Einsatzmöglichkeiten, wie beispielsweise Schulbesuche. Es lässt sich unkompliziert aufbauen, sodass Studieninteressierte die Sensoren selbst erkunden können. Besonders das Abdecken und Freigeben des Lichtsensors oder das Reiben des Feuchtigkeitssensors stoßen erfahrungsgemäß auf großes Interesse. Der Feuchtigkeitssensor kann zudem in echte Erde gesteckt werden, um praxisnah getestet zu werden. Ebenso kann der Wassersensor mit einer kleinen Sprühflasche benetzt werden, um seine Funktion zu demonstrieren.
+
+Alternativ besteht die Möglichkeit, dass die Studieninteressierten das System eigenständig aufbauen, um so noch tiefer in die Materie einzutauchen.
 
 
 
