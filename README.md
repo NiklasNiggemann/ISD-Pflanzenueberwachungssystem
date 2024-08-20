@@ -16,12 +16,20 @@ Dieses Projekt verwendet einen Arduino, um die Feuchtigkeit, Wasserpräsenz und 
 Zur Verkabelung wird ein Sensor Shield verwendet. Es empfiehlt sich, dort, wo die Ausgänge der Sensoren verdrahtet werden, ebenfalls Power (V) und Ground (G) mit dem jeweiligen Sensor zu verkabeln. Natürlich können die Sensoren auch anders verkabel werden, jedoch muss in diesem Falle der Code angepasst werden. 
 
 - Feuchtigkeitssensor:
+	- VCC an V
+ 	- GND an G 	 		 
 	- OUT an A2 
 - Wassersensor:
+  	- + an V
+ 	- - an G 	
   	- S an A3 
 - Lichtsensor:
+	- VCC an V
+ 	- GND an G 	
   	- AO an A1 
 - LCD-Display:
+  	- VCC an +
+ 	- GND an -  	
 	- SDA an SDA 
 	- SCL an SCL  
 
