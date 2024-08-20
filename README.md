@@ -1,6 +1,6 @@
 # Pflanzenüberwachungssystem
 
-Dieses Projekt verwendet einen Arduino, um die Feuchtigkeit, Wasserpräsenz und Lichtintensität in der Umgebung einer Pflanze zu überwachen und die Messwerte auf einem LCD-Display anzuzeigen.
+Dieses Projekt wurde für die Verwendung von Besuchertagen o.ä. an der HSHL für den Studiengang Intellgent Systems Design konzipiert und dient einem spielerischen Einblick in die Welt der Embedded Systems. Es verwendet einen Arduino, um die Feuchtigkeit, Wasserpräsenz und Lichtintensität in der Umgebung einer Pflanze zu überwachen und die Messwerte auf einem LCD-Display anzuzeigen. 
 
 ## Komponenten
 
