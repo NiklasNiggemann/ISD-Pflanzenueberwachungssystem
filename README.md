@@ -20,16 +20,16 @@ Zur Verkabelung wird ein Sensor Shield verwendet. Es empfiehlt sich, Power (V) u
   - GND an G
   - OUT an A2
 - **Wassersensor**:
-  - + an V
-  - - an G
+  - Plus-Symbol an V
+  - Minus-Symbol an G
   - S an A3
 - **Lichtsensor**:
   - VCC an V
   - GND an G
   - AO an A1
 - **LCD-Display**:
-  - VCC an +
-  - GND an -
+  - VCC an Plus-Symbol
+  - GND an Minus-Symbol
   - SDA an SDA
   - SCL an SCL
 
