@@ -9,7 +9,7 @@ Dieses Projekt verwendet einen Arduino, um die Feuchtigkeit, Wasserpräsenz und 
 - Wassersensor: Erkennt das Vorhandensein von Wasser
 - Lichtsensor: Misst die Lichtintensität
 - LCD-Display (16x2) mit I2C-Modul: Zeigt die Messwerte an
-Wichtig: Um das LCD-Display zu steuern, benötigt man die „LiquidCrystal_I2C“-Bibliothek. **Sketch > Include Library > Manage Libraries** und nach „LiquidCrystal_I2C“ suchen. 
+	- Wichtig: Um das LCD-Display zu steuern, benötigt man die „LiquidCrystal_I2C“-Bibliothek. **Sketch > Include Library > Manage Libraries** und nach „LiquidCrystal_I2C“ suchen. 
 
 ## Verkabelung
 
